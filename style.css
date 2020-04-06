@@ -115,3 +115,16 @@ a {
   text-decoration: none;
   color: #fe8e2f;
 }
+
+
+a.nav-link {
+  align-items: left;
+}
+
+#description span {
+  color: #fe8e2f;
+}
+
+.navbar-nav .nav-item {
+  margin-left: -30px;
+}
