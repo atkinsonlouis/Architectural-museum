@@ -1,0 +1,117 @@
+
+
+body {
+background: #5dbcd2;
+font-family: "Work Sans", sans-serif;
+}
+
+#main-navbar .navbar-brand {
+  font-size: 2rem;
+  color: #f2bc70
+
+
+}
+
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+}
+
+li:hover {
+  text-decoration: line-through;
+}
+
+h2,
+p {
+  color: white;
+}
+
+#contrasters span {
+  color: #fe8e2f
+
+}
+
+#contrasters h2 {
+  font-size: 3rem;
+  padding: 0.5rem;
+}
+
+@media (max-width: 1000px) {
+  #contrasters h2 {
+    font-size: 2rem;
+    padding: 0.5rem;
+  }
+}
+
+.image-widther {
+  width: 640px;
+}
+
+#description h2 {
+  font-size: 3rem;
+  padding: 0.5rem;
+}
+#description p {
+  font-size: 1.5rem;
+  padding: 0.3rem;
+}
+#description {
+  margin: 60px 0px;
+}
+
+.navbar.scrolled {
+  background-color: white;
+  
+}
+.navbar.scrolled a{
+  color: #fe8e2f !important;
+}
+.navbar.scrolled .nav-link{
+  color: #fe8e2f !important;
+}
+.navbar.scrolled .nav-item{
+  color: #fe8e2f !important;
+}
+.navbar.scrolled ul{
+  color: #fe8e2f !important;
+}
+.navbar.scrolled li{
+  color: #fe8e2f !important;
+}
+
+.nav-link:focus {
+  color: #fe8e2f !important;
+}
+
+ul.nav a:hover { color: #fe8e2f !important; }
+
+.navbar-link {
+  { color: #fe8e2f !important; }
+}
+
+.navbar a{
+  color: white !important;
+}
+.navbar .nav-link{
+  color: white !important;
+}
+.navbar .nav-item{
+  color: white !important;
+}
+.navbar ul{
+  color: white !important;
+}
+.navbar li{
+  color: white !important;
+}
+
+.nav-link:focus {
+  color: white !important;
+}
+
+ul.nav a:hover { color: #fe8e2f !important; }
+
+a {
+  text-decoration: none;
+  color: #fe8e2f;
+}
